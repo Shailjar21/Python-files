@@ -1,0 +1,6 @@
+x=int(input('enter x1'))
+y=int(input('enter x2'))
+a=int(input('enter y1'))
+b=int(input('enter y2'))
+m=(b-a)/(y-x)
+print('when x=0, value of m=',m) 

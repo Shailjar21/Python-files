@@ -1,0 +1,6 @@
+x=int(input('Enter co-ordinate x1 for a'))
+y=int(input('Enter co-ordinate y1 for a'))
+a=int(input('Enter co-ordinate x2 for b'))
+b=int(input('Enter co-ordinate y2 for b'))
+distance=((a-x)**2+(b-y)**2)**(1/2)
+print('distance between a and b=',distance)
